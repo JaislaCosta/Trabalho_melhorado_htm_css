@@ -69,3 +69,10 @@ h2{
 h1 {
     color: white;
 }
+footer {
+    background-color: teal;
+    color: white;
+    text-align: left;
+    padding: 15px;
+    margin-top: 90px;
+  }
